@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Pinaki Chakraborty</h1>
 
-<h3 align="center">A enthusiast python developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<h3 align="center">A enthusiast frontend developer from India India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vripil&label=Profile%20views&color=0e75b6&style=flat" alt="vripil" /> </p>
 
@@ -15,7 +15,10 @@
 - 🌱 I’m currently learning **Google IT Automation with Python**
 
 
-- 📫 How to reach me **pinakiofficials22@gmail.com, prinakiofficals22@outlook.com**
+- 📫 How to reach me **prinakiofficals22@outlook.com**
+
+
+- ⚡ Fun fact **I'm funny as well creative**
 
 
 <h3 align="left">Connect with me:</h3>
